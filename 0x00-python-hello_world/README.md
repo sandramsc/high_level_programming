@@ -21,15 +21,16 @@ Enjoy!
 
 <p><strong>Read or watch</strong>:</p>
 
-<ul>
-<li><a href="/rltoken/fX5geNeDFcCtootbB_MqCQ" title="The Python tutorial" target="_blank">The Python tutorial</a> (<em>Read the first three chapters</em>)</li>
-<li><a href="/rltoken/JnsZOCXrWDkZn6iMo1uuFg" title="Whetting Your Appetite" target="_blank">Whetting Your Appetite</a> </li>
-<li><a href="/rltoken/AejXr_G-d8CSITEtpvwpRg" title="Using the Python Interpreter" target="_blank">Using the Python Interpreter</a> </li>
-<li><a href="/rltoken/lUBuPMNcox9EqJ1Q3oVesQ" title="An Informal Introduction to Python" target="_blank">An Informal Introduction to Python</a> (<em>Read up until “3.1.2. Strings” included</em>)</li>
-<li><a href="/rltoken/z6mk3Yep2tJVSF6KsBAYrg" title="How To Use String Formatters in Python 3" target="_blank">How To Use String Formatters in Python 3</a> </li>
-<li><a href="/rltoken/gYgGXOth8N16KjUpXgO1uQ" title="Learn to Program" target="_blank">Learn to Program</a> </li>
-<li><a href="/rltoken/BMIjFOY7HvWHSjHfNrkzPg" title="PEP 8 -- Style Guide for Python Code" target="_blank">PEP 8 – Style Guide for Python Code</a> </li>
-</ul>
+<h2>Resources</h2>
+Read or watch:
+
+- [The Python tutorial](https://docs.python.org/3.7/tutorial/index.html) (only the first three chapters below)
+    - [Whetting Your Appetite](https://docs.python.org/3.4/tutorial/appetite.html)
+    - [Using the Python Interpreter](https://docs.python.org/3.4/tutorial/interpreter.html)
+    - [An Informal Introduction to Python](https://docs.python.org/3.4/tutorial/introduction.html) (Read up until “3.1.2. Strings” included)
+- [How To Use String Formatters in Python 3](https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3)
+- [Learn to Program](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
+- [PEP 8 – Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 
 <h2>Learning Objectives</h2>
 
