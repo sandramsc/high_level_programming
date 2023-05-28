@@ -60,4 +60,4 @@ $ git clone https://github.com/sandramsc/high_level_programming.git
 | Sandra Ashipala | https://www.linkedin.com/in/sandraashipala/ |
 
 ## License
-[![GitLicense](https://img.shields.io/badge/License-MIT-lime.svg)](https://github.com/sandramsc/high_level_programming/blob/main/LICENSE)
+[![GitLicense](https://img.shields.io/badge/License-APACHE-lime.svg)](https://github.com/sandramsc/high_level_programming/blob/main/LICENSE)
