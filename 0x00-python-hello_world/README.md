@@ -18,10 +18,6 @@ Enjoy!
 </code></pre>
 
 <h2>Resources</h2>
-
-<p><strong>Read or watch</strong>:</p>
-
-<h2>Resources</h2>
 Read or watch:
 
 - [The Python tutorial](https://docs.python.org/3.7/tutorial/index.html) (only the first three chapters below)
