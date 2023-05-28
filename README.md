@@ -12,7 +12,7 @@
 |  [0x05-python-exceptions]| learn what's the **direfference between errors and exceptions**,  **what are exceptions** and how to use them and how to use **raise a builtin exception**|
 |  [0x06-python-classes]|learn about **OOP, class, object and a instance, method of a class**, to use **Data Abastraction, Data Encapsulation, and information Hiding**, what is a **property**, to know about **getters and setters** |
 |  [0x07-python-test_driven_development]|to learn **what are tests**, how **to write Docstrings**, **Why are tests important**|
-|  [0x08-python-more_classes]|This folder is a addictional about the folder 0x06-python_classes, here you are going to **learn about class method, class method, getattr function to use __str__ and __repr__ methods** and what are the differences between both|
+|  [0x08-python-more_classes]|continuation of 0x06-python_classes, here you are going to **learn about class method, class method, getattr function to use __str__ and __repr__ methods** and what are the differences between both|
 |  [0x09-python-everything_is_object]|  know what is an **object**, **mutables and inmutable object**, **what is a reference**, **alias and assigment** and what are the **built-in mutables and inmutables types**|
 |  [0x0A-python-inheritance]|learn about subclass, how to define a **class with multiple base classes** and **override a method or atrributes inherited** from the base class, and use **insinstance, issublclass, type, and super**|
 |  [0x0B-python-input_output]|learn how **how to open, write text and read from a file**, how to move the **cursor in a file**, and **what is JSON**, what is **serialization and deserializacion**|
