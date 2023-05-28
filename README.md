@@ -45,7 +45,7 @@ What things you need to install
 **Step #1** - Clone the project
 
 ```bash
-$ git clone https://github.com/sandramsc/alx-low_level_programming.git
+$ git clone https://github.com/sandramsc/high_level_programming.git
 ```
 ## Usage 
 
