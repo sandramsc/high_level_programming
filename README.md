@@ -1,5 +1,8 @@
 # Higher Level Programming - Python
 
+## Inroduction
+This repository contains programs for the higher level programming curriculum at Holberton School.
+
 ## Description About the Directories 
 
 | DIRECTORY | DESCRIPCION |
