@@ -1,31 +1,7 @@
-# Higher Level Programming - Python
+# High Level Programming
 
-## Inroduction
-This repository contains programs for the higher level programming curriculum at Holberton School.
-
-## Description About the Directories 
-
-| DIRECTORY | DESCRIPCION |
-| :--- | :--- |
-|  [0x00-python-hello_world]| how use  **variables**, **print strings**, what are **indexing** and **slicing** and to **learn more about Python**  |
-|  [0x01-python-if_else_loops_functions]| learn about **conditions statements**(if, elif, else), how to use **break**, **continues** and **pass**, using **loops**(while and for) , how do **functions** and the **return statement** work? and **scope of variables** |
-|  [0x02-python-import_modules]|how use **learn import a  module from another file**, to use **built-in function dir**() and **command line arguments**|
-|  [0x03-python-data_structures]|learn about **diferrences and simililatrities between strings and lists**, to use most **common methods of lists**, **what are tuples** and how to use them and what is the **del statement**|
-|  [0x04-python-more_data_structures]|continuation of 0x03-python-data_structures to learn about, **what are set and dictionaries**  and and how to **use the common methods of set and dictionaries**, how **iterate** a into a **set**, what is a **lambda, map, reduce and filter functions**, and what are the **diferrence between lists, set and dictionaries**  |
-|  [0x05-python-exceptions]| learn what's the **direfference between errors and exceptions**,  **what are exceptions** and how to use them and how to use **raise a builtin exception**|
-|  [0x06-python-classes]|learn about **OOP, class, object and a instance, method of a class**, to use **Data Abastraction, Data Encapsulation, and information Hiding**, what is a **property**, to know about **getters and setters** |
-|  [0x07-python-test_driven_development]|to learn **what are tests**, how **to write Docstrings**, **Why are tests important**|
-|  [0x08-python-more_classes]|continuation of 0x06-python_classes, here you are going to **learn about class method, class method, getattr function to use __str__ and __repr__ methods** and what are the differences between both|
-|  [0x09-python-everything_is_object]|  know what is an **object**, **mutables and inmutable object**, **what is a reference**, **alias and assigment** and what are the **built-in mutables and inmutables types**|
-|  [0x0A-python-inheritance]|learn about subclass, how to define a **class with multiple base classes** and **override a method or atrributes inherited** from the base class, and use **insinstance, issublclass, type, and super**|
-|  [0x0B-python-input_output]|learn how **how to open, write text and read from a file**, how to move the **cursor in a file**, and **what is JSON**, what is **serialization and deserializacion**|
-|  [0x0C-python-almost_a_circle]|learn **how serialize and deserialize a Class**, **writting and reading a JSON file**, using **\*args and \*\*kwargs**|
-|  [0x0D-SQL_introduction]|learn **how serialize and deserialize a Class**, **writting and reading a JSON file**, using **\*args and \*\*kwargs**|
-|  [0x0E-SQL_more_queries]|learn **how serialize and deserialize a Class**, **writting and reading a JSON file**, using **\*args and \*\*kwargs**|
-|  [0x0F-python-object_relational_mapping]|learn **how serialize and deserialize a Class**, **writting and reading a JSON file**, using **\*args and \*\*kwargs**|
-|  [0x12-javascript-warm_up]|learn **how serialize and deserialize a Class**, **writting and reading a JSON file**, using **\*args and \*\*kwargs**|
-|  [0x13-javascript_objects_scopes_closures]|learn **how serialize and deserialize a Class**, **writting and reading a JSON file**, using **\*args and \*\*kwargs**|
-
+## Introduction
+This repository contains programs for the high level programming curriculum at Holberton School.
 
 ### Prerequisites
 
@@ -57,6 +33,5 @@ $ git clone https://github.com/sandramsc/high_level_programming.git
 | Name            | Link                                   |
 | --------------- | -------------------------------------- |
 | Sandra Ashipala | https://www.linkedin.com/in/sandraashipala/ |
-
 ## License
 [![GitLicense](https://img.shields.io/badge/License-APACHE-lime.svg)](https://github.com/sandramsc/high_level_programming/blob/main/LICENSE)
