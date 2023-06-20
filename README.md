@@ -5,15 +5,10 @@ This repository contains programs for the high level programming curriculum at H
 
 ### Prerequisites
 
-What things you need to install
-- **Ubuntu 14.04 LTS** on a Vagrant (Virtualbox) enviroment 
-- **shellcheck** to check the style to files bash
-- **Git** to clone the repository
-
 ## Environment
 
 - Language: Bash script  
-- OS: Ubuntu 14.04 LTS
+- OS: Ubuntu 20.04 LTS
 - Style guidelines: Betty to check if the style in files bash is correct
 
 
