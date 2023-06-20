@@ -3,8 +3,6 @@
 ## Introduction
 This repository contains programs for the high level programming curriculum at Holberton School.
 
-### Prerequisites
-
 ## Environment
 
 - Language: Bash script  
