@@ -1,7 +1,7 @@
 # High Level Programming
 
 ## Introduction
-This repository contains programs for the high level programming curriculum at Holberton School.
+This repository contains programs for the high level programming curriculum at [Holberton School](https://www.holbertonschool.com/).
 
 ## Environment
 
