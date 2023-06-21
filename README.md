@@ -8,8 +8,6 @@ This repository contains programs written for the high level programming tought 
 ## Technologies
 * Python scripts interpreted/compiled using python3 (version 3.8.5).
 * Python scripts use pycodestyle (version 2.8.*).
-* C files are compiled using gcc 9.4.0.
-* C files are written according to the C99 standard.
 * Tested on Ubuntu 20.04 LTS.
 
 ## Projects
