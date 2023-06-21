@@ -3,7 +3,7 @@
 
 ## Application Description
 
-This repository contains programs written for the high level programming at [Holberton School](https://www.holbertonschool.com/).
+This repository contains programs written for the high level programming track at [Holberton School](https://www.holbertonschool.com/).
 
 ## Projects
 All of the following folders are projects done during the studies:
