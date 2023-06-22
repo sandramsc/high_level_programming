@@ -17,10 +17,12 @@
 </ol>
 
 ## RESOURCES:
-* [The Python tutorial](https://docs.python.org/3.7/tutorial/index.html) (only the first three chapters below)
-    - [Whetting Your Appetite](https://docs.python.org/3.4/tutorial/appetite.html)
-    - [Using the Python Interpreter](https://docs.python.org/3.4/tutorial/interpreter.html)
-    - [An Informal Introduction to Python](https://docs.python.org/3.4/tutorial/introduction.html) (Read up until “3.1.2. Strings” included)
+* [The Python tutorial](https://docs.python.org/3.4/tutorial/index.html)
+* [Whetting Your Appetite](https://docs.python.org/3.4/tutorial/appetite.html)
+* [Using the Python Interpreter](https://docs.python.org/3.4/tutorial/interpreter.html)
+* [An Informal Introduction to Python](https://docs.python.org/3.4/tutorial/introduction.html)
 * [How To Use String Formatters in Python 3](https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3)
 * [Learn to Program](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
 * [PEP 8 – Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+* [Pycodestyle](https://github.com/PyCQA/pycodestyle/issues/466)
+* [The Zen of Python, by Tim Peters](https://peps.python.org/pep-0020/)
