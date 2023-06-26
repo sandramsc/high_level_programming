@@ -8,7 +8,7 @@
 - All files should end with a new line
 - The first line of all your files should be exactly #!/usr/bin/python3
 - Your code should use the PEP 8 style (version 1.7.*)
-- All your header files should be include guarded
+- All your header files should be guarded
 - All your files must be executable
 - The length of your files will be tested using wc
 
