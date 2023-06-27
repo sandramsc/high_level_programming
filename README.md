@@ -3,7 +3,7 @@
 
 ## Application Description
 
-This repository contains reading material for the high level programming tought at [Holberton School](https://www.holbertonschool.com/).
+This repository contains **reading material** for the high level programming tought at [Holberton School](https://www.holbertonschool.com/).
 
 ## Folders
 
