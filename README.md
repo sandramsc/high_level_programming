@@ -3,15 +3,9 @@
 
 ## Application Description
 
-This repository contains programs written for the high level programming tought at [Holberton School](https://www.holbertonschool.com/).
+This repository contains reading material for the high level programming tought at [Holberton School](https://www.holbertonschool.com/).
 
-## Technologies
-* Python scripts interpreted/compiled using python3 (version 3.8.5).
-* Python scripts use pycodestyle (version 2.8.*).
-* Tested on Ubuntu 20.04 LTS.
-
-## Projects
-All of the following folders are projects done during the studies:
+## Folders
 
 | Project name | Description |
 | ------------ | ----------- |
